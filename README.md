@@ -52,7 +52,7 @@ Infra:       WhatsApp API  ·  MQTT  ·  Wokwi Simulator
 
 ```
 > Currently: open to collabs on IoT & civic tech
-> Location:  Neuquén, Patagonia, Argentina 🏔
+> Location:  Capital Federal, Buenos Aires, Argentina 🏔
 ```
 
 <div align="center">
